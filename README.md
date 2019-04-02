@@ -1,6 +1,5 @@
 # d0ct0r
-<center>d0ct0r-t3rm1nus</center>
-Supernet NN #1
+<center>d0ct0r-t3rm1nus - Supernet NN #1</center>
 
 ![alt text](https://github.com/d0ct0r-t3rm1nus/d0ct0r/blob/master/d0ct0r-01.jpg)
 
