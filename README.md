@@ -1,6 +1,8 @@
 # d0ct0r
 d0ct0r-t3rm1nus Supernet NN #1
 
+![alt text](https://github.com/d0ct0r-t3rm1nus/d0ct0r/blob/master/d0ct0r-01.jpg)
+
 Hello KMD Community!
 
 I a KMD enthusiast in additionto an experienced and self sufficient systems / networking admin as well as an effective project planner, manager and service responder.
