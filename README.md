@@ -1,5 +1,5 @@
 # d0ct0r
-d0ct0r-t3rm1nus - Komodo Supernet NN #1
+d0ct0r-t3rm1nus - Komodo Supernet NN #01
 
 ![alt text](https://github.com/d0ct0r-t3rm1nus/d0ct0r/blob/master/d0ct0r-01.jpg)
 
@@ -11,7 +11,7 @@ In addition to me being a massive KMD enthusiast I'm an experienced, self suffic
 
 The blockchain / crypto space has brought new depth and passion to my already obsessive IT life. I'm invigoratied, interested and excited to start every morning again, ever single day! Thank you crypto space!!!
 
-GPU mining / rig building has been extremely fun, informative and almost profitable!!! :). I crafted a few custom rigs in summer of 2017 which I have successfully managed and continually improved upon ever since. I also  while achieving excellent uptime, power efficieny, and even heat utilization.
+Custom rig building / GPU mining has been extremely fun, informative and almost profitable!!! :). I crafted a few systems in summer of 2017 ~ 20 GPU's - which I have successfully managed and continually improved upon ever since. Through persistence I've achieved exceptional / competitive hashrate, excellent uptime, power efficieny, and even heat utilization.
 
 I'm ready and very willing to make myself a part of the KMD network and community efforts. I eagerly joined the KMD Discord channel within only days of it coming online. If elected I can be counted upon to remain present and involved with the Komodo community throughout my notary node upkeep and beyond. I'll work hard to keep my single node up and running at it's best in hopes of earning a second year of service!
 
