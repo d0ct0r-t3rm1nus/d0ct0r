@@ -11,6 +11,16 @@ I Graduated college over 12 years ago now and I have been operating as an indepe
 
 I've never had a boss. Just a handful of regular, trusting, and happy clients. :)
 
-I'm ready and very willing to make myself a part of the KMD network and community efforts by assisting newcomers where and when possible across a full range of potential matters which I might contribute advice towards drawn from years of real world experience.
+I'm ready and very willing to make myself a part of the KMD network and community efforts. I am prepared to run 1 North American notary node to the best of my ability while also assisting community members where and when possible across a full range of potential matters which I might contribute advice towards drawn from years of real world experience.
 
 I joined the KMD discord channel within only days of it came online. If elected I can be counted upon to remain present and involved with the Komod community throughout my notary node upkeep. I'll to work hard to keep a single node up and running at it's best. I'm a true KMD believer and with your votes I'll earn
+
+North American [NA] Server Specs:
+
+CPU: 2x AMD Operton 6272 - 16 Cores / 16 Threads Per CPU
+RAM: 128GB DDR3 2000 MHz
+Storage: 2 x 1 TB SSD in RAID-1
+Network: 1 Gbps up/down
+Location:	Datacenter - Dallas, Texas
+
+KMD Voting Address:
