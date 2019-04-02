@@ -1,5 +1,5 @@
 # d0ct0r
-d0ct0r-t3rm1nus - Supernet NN #1 {align=center}
+d0ct0r-t3rm1nus - Komodo Supernet NN #1
 
 ![alt text](https://github.com/d0ct0r-t3rm1nus/d0ct0r/blob/master/d0ct0r-01.jpg)
 
@@ -16,7 +16,7 @@ I'm a true KMD believer and with enough votes I'll earn the chance to prove it.
 I'm prepared to run 1 North American KMD Notary Node to the best of my ability while also assisting community members where and when possible across a full range of potential matters which I might contribute advice towards drawn from years of real world experience.
 
 
-North American NA Server-01 Specs:
+NA - Komodo Supernet NN Server-01 Specs:
 
 CPU: 2x AMD Operton 6272 - 16 Cores / 16 Threads Per CPU - 3 GHz Boost
 RAM: 128GB DDR3 2000 MHz
