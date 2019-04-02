@@ -1,5 +1,6 @@
 # d0ct0r
-d0ct0r-t3rm1nus Supernet NN #1
+d0ct0r-t3rm1nus
+Supernet NN #1
 
 ![alt text](https://github.com/d0ct0r-t3rm1nus/d0ct0r/blob/master/d0ct0r-01.jpg)
 
@@ -11,7 +12,7 @@ The blockchain/crypto space has brought new depth to my passion for IT as well a
 
 I'm ready and very willing to make myself a part of the KMD network and community efforts. I eagerly joined the KMD Discord channel within only days of it coming online. If elected I can be counted upon to remain present and involved with the Komodo community throughout my notary node upkeep and beyond. I'll work hard to keep my single node up and running at it's best in hopes of earning a second year of service!
 
-I'm a true KMD believer and with your votes I'll earn a chance to prove this!
+I'm a true KMD believer and with enough votes I'll earn the chance to prove it.
 
 I'm prepared to run 1 North American KMD Notary Node to the best of my ability while also assisting community members where and when possible across a full range of potential matters which I might contribute advice towards drawn from years of real world experience.
 
@@ -34,4 +35,7 @@ Discord: @Dr.Terminus#3269
 E-Mail: d0ct0r.t3rm1nus@gmail.com
 
 This is my first time running for a KMD Notary Node.
+
 Please feel free to reach out toe me with any questions or concerns you may have.
+
+Thanks for reading my proposal!
