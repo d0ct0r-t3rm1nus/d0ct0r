@@ -34,7 +34,8 @@ Network: 1 Gbps up/down
 Location:	Datacenter - Dallas, Texas - United States
 
 
-KMD Voting Address:
+KMD Voting Address: RJgeTFv3UEUftGVn7BdpUhjmKpXi2KDvtZ
+
 
 
 Contact Info:
@@ -42,6 +43,7 @@ Contact Info:
 Discord: @Dr.Terminus#3269
 
 E-Mail: d0ct0r.t3rm1nus@gmail.com
+
 
 
 This is my first time running for a KMD Notary Node.
