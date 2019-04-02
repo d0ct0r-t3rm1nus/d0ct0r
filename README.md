@@ -20,11 +20,11 @@ I am prepared to run 1 North American notary node to the best of my ability whil
 
 North American NA Server-01 Specs:
 
-CPU: 2x AMD Operton 6272 - 16 Cores / 16 Threads Per CPU
+CPU: 2x AMD Operton 6272 - 16 Cores / 16 Threads Per CPU - 3 GHz Boost
 RAM: 128GB DDR3 2000 MHz
-Storage: 2 x 1 TB SSD in RAID-1
+Storage: 2 x 1 TB SSD RAID-1 Array
 Network: 1 Gbps up/down
-Location:	Datacenter - Dallas, Texas
+Location:	Datacenter - Dallas, Texas - United States
 
 KMD Voting Address:
 
