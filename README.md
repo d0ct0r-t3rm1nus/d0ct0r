@@ -20,11 +20,17 @@ I'm prepared to run 1 North American KMD Notary Node to the best of my ability w
 
 NA - Komodo Supernet NN Server-01 Specs:
 
+
 CPU: 2x AMD Operton 6272 - 16 Cores / 16 Threads Per CPU - 3 GHz Boost
+
 RAM: 128GB DDR3 2000 MHz
+
 Storage: 2 x 1 TB SSD RAID-1 Array
+
 Network: 1 Gbps up/down
+
 Location:	Datacenter - Dallas, Texas - United States
+
 
 KMD Voting Address:
 
@@ -34,6 +40,7 @@ Contact Info:
 Discord: @Dr.Terminus#3269
 
 E-Mail: d0ct0r.t3rm1nus@gmail.com
+
 
 This is my first time running for a KMD Notary Node.
 
