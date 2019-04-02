@@ -7,7 +7,7 @@ Dear KMD Community,
 
 I hope you are all doing well. I'm here because I'm a true KMD believer and with enough NN votes I'll earn the chance to prove it.
 
-In addition to me being a massive KMD enthusiast I'm an experienced, self sufficient systems / networking administrator in addition to being well versed in project planning / management and service responding. I graduated college over 12 years ago and I've been operating as an independent IT contractor ever since. I've spent this time specializing in medical imaging IT sales, planning, coordinating, installing, configuring, calibrating, networking, securing, testing, servicing, and troubleshooting HIPPA compliant systems. I've never had a boss. Just a handful of regular, trusting, and happy clients spanning the US.
+In addition to me being a massive KMD enthusiast I'm an experienced, self sufficient systems / networking administrator and project planner / manager as well as continued service directing / responding. I graduated college over 12 years ago and I've been operating as an independent IT contractor ever since. I've spent this time specializing in medical imaging IT sales, planning, coordinating, installing, configuring, calibrating, networking, securing, testing, servicing, and troubleshooting HIPPA compliant systems. I've never had a boss. Just a handful of regular, trusting, and happy clients spanning the US.
 
 The blockchain / crypto space has brought new depth and passion to my already obsessive IT life. Once more I'm invigoratied, interested and excited to greet my professional life every morning, ever day. Thank you crypto space!!!
 
